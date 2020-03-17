@@ -1,6 +1,6 @@
 # Profiles REST API
 
-Profile REST API source ```
+Profile REST API source code.
 
 ```
 
